@@ -4,7 +4,7 @@
 - Speech samples : https://nii-yamagishilab.github.io/TSNetVocoder/index.html
 
 # Reference
-- Shinji Takaki, Toru Nakshika, Xin Wang, Junichi Yamagishi, "STFT spectral loss for training a neural speech waveform model," arXiv preprint arXiv:xxxx.xxxxx, 2018.
+- Shinji Takaki, Toru Nakshika, Xin Wang, Junichi Yamagishi, "STFT spectral loss for training a neural speech waveform model," arXiv preprint arXiv:1810.11945, 2018.
 
 # Requirements
 - See Dockerfile.
