@@ -1,5 +1,5 @@
 # TSNetVocoder
-- An implementation of TSNetVocoder. This software is distributed under BSD 3-Clause license. Please see LICENSE for more details.
+- This software is distributed under BSD 3-Clause license. Please see LICENSE for more details.
 - Paper : http://arxiv.org/abs/1810.11945
 - Speech samples : https://nii-yamagishilab.github.io/TSNetVocoder/index.html
 
